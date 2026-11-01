@@ -1,0 +1,10 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# Environment variables (IMPORTANT)
+.env
+.env.*
+!.env.example

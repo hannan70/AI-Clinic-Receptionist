@@ -1,0 +1,10 @@
+ipykernel
+elevenlabs 
+langchain 
+langchain-openai 
+python-dotenv 
+SpeechRecognition 
+PyAudio 
+sounddevice 
+pydub 
+numpy
