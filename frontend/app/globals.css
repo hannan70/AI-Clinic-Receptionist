@@ -1,5 +1,7 @@
  .conversation_list {
     padding: 20px;
+    height: 600px;
+    overflow-y: scroll;
 }
 
 .conversation_item p {
@@ -14,4 +16,8 @@
 .conversation_item {
     border-bottom: 1px solid #ddd;
     padding-bottom: 7px;
+}
+
+.conversation_item .ai h5 {
+    font-size: 18px;
 }
