@@ -1,0 +1,17 @@
+ .conversation_list {
+    padding: 20px;
+}
+
+.conversation_item p {
+    margin: 0px 0px 2px;
+    padding: 0;
+}
+
+.conversation_item .u {
+    margin-bottom: 22px;
+}
+
+.conversation_item {
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 7px;
+}
